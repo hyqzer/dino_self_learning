@@ -1,2 +1,2 @@
 # dino_self_learning
-dino self learning
+a dino self learning lab
